@@ -1,3 +1,4 @@
+# Search Filter: Whitespace trimming and case-insensitive normalization
 # State Controller: Synchronizes DSA ranking engine with View presentation
 """
 Contact Controller: Centralized Dynamic MVC Orchestrator
