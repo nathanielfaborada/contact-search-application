@@ -1,3 +1,4 @@
+# Algorithm Note: Uses Dynamic Programming Levenshtein distance O(m * n)
 """
 Edit Distance (Levenshtein Distance) Algorithm & Universal Search Engine
 Time Complexity: O(m * n)
