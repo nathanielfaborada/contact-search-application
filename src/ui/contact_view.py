@@ -1,3 +1,4 @@
+# Responsive Threshold: Dynamic 680px breakpoint for layout adaptation
 # Accessibility Note: High-contrast focus rings on interactive elements
 # Ergonomics Note: Minimum 44px touch targets on primary controls
 """
