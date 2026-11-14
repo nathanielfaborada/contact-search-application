@@ -1,3 +1,4 @@
+# Entity Note: Validates data consistency for all stored contacts
 """
 Contact Entity Definition
 Defines the ContactRecord domain entity using pure Python standard library.
