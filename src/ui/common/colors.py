@@ -1,3 +1,4 @@
+# Design System: Strict token enforcement across all UI surfaces
 """
 Design System Color Palette Tokens (iOS Light Card Theme)
 Conforms strictly to .agents/design-system/color-palette.yaml
