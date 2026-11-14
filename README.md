@@ -1,3 +1,4 @@
+<!-- Packaging: Standalone Desktop EXE and Android APK builds supported -->
 # Contact Search Application
 
 A modern, responsive centralized phonebook application that searches and ranks contact numbers, names, and tags using the **Dynamic Programming Levenshtein Distance (Edit Distance)** algorithm.
