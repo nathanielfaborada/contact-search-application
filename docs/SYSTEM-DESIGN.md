@@ -1,3 +1,4 @@
+<!-- Architecture: Model-View-Controller with dedicated DSA layer -->
 # System Design Document: Contact Search Application
 
 > **Project**: Contact Search Application  
