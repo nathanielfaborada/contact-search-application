@@ -1,3 +1,4 @@
+# State Controller: Synchronizes DSA ranking engine with View presentation
 """
 Contact Controller: Centralized Dynamic MVC Orchestrator
 Coordinates features between ContactModel, EditDistance DSA, and ContactView.
