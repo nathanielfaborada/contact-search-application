@@ -4,6 +4,7 @@ package.name = phonebook
 package.domain = org.personal.contactapp
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,csv
+source.exclude_dirs = .git, .github, build, dist, scripts
 version = 1.0.0
 requirements = python3,kivy
 
