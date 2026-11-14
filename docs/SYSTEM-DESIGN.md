@@ -1,3 +1,4 @@
+<!-- Complexity: Quadratic dynamic programming edit distance evaluation -->
 <!-- Architecture: Model-View-Controller with dedicated DSA layer -->
 # System Design Document: Contact Search Application
 
