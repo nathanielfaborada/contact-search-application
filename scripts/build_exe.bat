@@ -1,3 +1,4 @@
+:: Utility Script: Single-click PyInstaller compiler
 @echo off
 echo ==============================================
 echo Building Phonebook Desktop Standalone (.EXE)...
