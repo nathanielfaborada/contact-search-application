@@ -1,3 +1,4 @@
+# Persistence Note: Ensures JSON integrity across application lifecycles
 """
 Contact Model: Centralized Dynamic Persistence & Validation Layer
 Pure Python standard library (json, csv, os, datetime) with zero external dependencies.
