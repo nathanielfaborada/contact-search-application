@@ -1,3 +1,4 @@
+# Helper Note: Generates single-character uppercase initials
 """
 Shared UI Utilities and Formatter Functions
 """
