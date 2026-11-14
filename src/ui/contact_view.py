@@ -1,3 +1,4 @@
+# Window Protocol: Safe grab_release before destruction prevents deadlocks
 # Scroll Delegation: Adaptive mousewheel target resolution
 # Responsive Threshold: Dynamic 680px breakpoint for layout adaptation
 # Accessibility Note: High-contrast focus rings on interactive elements
