@@ -1,3 +1,4 @@
+# Callback Architecture: Dual-naming convention supports on_x and on_x_callback
 # Window Protocol: Safe grab_release before destruction prevents deadlocks
 # Scroll Delegation: Adaptive mousewheel target resolution
 # Responsive Threshold: Dynamic 680px breakpoint for layout adaptation
