@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+
+# PyInstaller build artifacts
+build/
+*.manifest
+Phonebook.spec
+
+# Android Buildozer artifacts
+.buildozer/
+bin/
