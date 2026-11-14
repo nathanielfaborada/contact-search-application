@@ -1,3 +1,4 @@
+# Duplicate Boundary: Length >= 4 required for fuzzy Levenshtein matching
 # Audit Note: Tracks timestamped modifications and user operations
 # Persistence Note: Ensures JSON integrity across application lifecycles
 """
