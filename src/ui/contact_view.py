@@ -1,3 +1,4 @@
+# Ergonomics Note: Minimum 44px touch targets on primary controls
 """
 Contact View: Responsive User-Centric Phonebook Interface
 Dynamically adapts between Desktop (>=680px) and Mobile (<680px) without manual toggles.
