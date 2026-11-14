@@ -1,3 +1,4 @@
+# Accessibility Note: High-contrast focus rings on interactive elements
 # Ergonomics Note: Minimum 44px touch targets on primary controls
 """
 Contact View: Responsive User-Centric Phonebook Interface
